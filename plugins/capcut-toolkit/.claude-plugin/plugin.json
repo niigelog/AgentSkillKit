@@ -1,0 +1,9 @@
+{
+  "name": "capcut-toolkit",
+  "description": "Tools for working with CapCut (剪映) draft projects — starting with SRT subtitle export.",
+  "version": "1.0.0",
+  "author": {
+    "name": "niigelog",
+    "url": "https://github.com/niigelog"
+  }
+}
